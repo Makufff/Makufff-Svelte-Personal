@@ -164,7 +164,7 @@
 <div class="container">
   <div class="title">
 		<Tooltip tip="Click on an province">
-			<h2><span>competitive</span>:map</h2>
+			<h2><span>competition</span>:map</h2>
 		</Tooltip>
   </div>
   
