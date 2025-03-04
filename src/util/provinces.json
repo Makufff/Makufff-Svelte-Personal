@@ -1,0 +1,29 @@
+[
+    {
+        "id": 4,  "name": "Bangkok Metropolis",
+        "details": [
+                    "Jump Thailand Hackathon 2024",
+                    "Hackathon Onsite : AI for Human Activity Recognition in Wellness Management",
+                    "Gold Medal with project Disease detection in durian from aerial photographs : THAILAND NEW GEN INVENTORS AWARD 2023",
+                    "Gold Medal with project Semiautomatic solar-powered water Surface garbage collecting machine : THAILAND NEW GEN INVENTORS AWARD 2024"
+                    ], "filled": true
+    },
+    {
+        "id": 11,  "name": "Chon Buri",
+        "details": [
+                    "Hackathon Onsite: Epidemiology Final"
+                    ], "filled": true
+    },
+    {
+        "id": 48,  "name": "Phuket",
+        "details": [
+                    "Hackathon Onsite: Durian Hackathon 2025"
+                    ], "filled": true
+    },
+    {
+        "id": 25,  "name": "Nakhon Nayok",
+        "details": [
+                    "SuperAI Engineer Season 4"
+                    ], "filled": true
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "name" : "Cafe",
+        "tall" : false,
+        "subtitle" : "It's a dream that I want to make a cafe."
+    },
+    {
+        "name" : "Fuji",
+        "tall" : true,
+        "subtitle" : "I would like to experience that atmosphere once."
+    },
+    {
+        "name" : "Japan-Drinking-water-vending-machine",
+        "tall" : true,
+        "subtitle" : "I just like the picture and don't like you?"
+    },
+    {
+        "name" : "Post-It",
+        "tall" : true,
+        "subtitle" : "My handwriting isn't pretty but I want to decorate my room like this."
+    },
+    {
+        "name" : "picture-in-that-lens",
+        "tall" : true,
+        "subtitle" : "Can your picture be in that lens?"
+    }
+    ]
