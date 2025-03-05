@@ -103,11 +103,16 @@
     display: flex;
     flex-direction: row;
     gap: 20px;
+
   }
 
   .left-text {
     flex: 1;
     padding: 20px;
+
+    @media screen and (max-width: 868px) {
+      display: none;      
+    }
   }
 
   .modal {
@@ -149,9 +154,6 @@
 		justify-content: center;
 		margin-top: 0;
 
-		@media (max-width: 868px) {
-			justify-content: left;
-		}
 	}
 
   li {
