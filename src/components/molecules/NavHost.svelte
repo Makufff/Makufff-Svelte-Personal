@@ -6,7 +6,7 @@
 <nav>
 	<div class:scrolled={y > 20}>
 		<ul>
-			<Nav href="#home" section="/" isSelected={y < 350}>
+			<Nav href="#home" section="</>" isSelected={y < 350}>
 				<svg
 					xmlns="http://www.w3.org/2000/svg"
 					width="24"
@@ -30,7 +30,7 @@
 					/></svg
 				>
 			</Nav>
-			<Nav href="#aw" section="work" isSelected={y > 675}>
+			<Nav href="#aw" section="showcases" isSelected={y > 675}>
 				<svg
 					xmlns="http://www.w3.org/2000/svg"
 					width="24"
@@ -42,7 +42,7 @@
 					/></svg
 				>
 			</Nav>
-			<Nav href="#map" isSelected={y > 675}>
+			<Nav href="#map" section="complitions" isSelected={y > 675}>
 				<svg
 					xmlns="http://www.w3.org/2000/svg"
 					width="24"
@@ -88,14 +88,15 @@
 	}
 	@media (min-width: 868px) {
 		div {
-			width: 40rem;
+			width: 50rem;
+			padding: 1.25rem 0;
 			border-radius: 12px;
 		}
 		.scrolled {
 			border-bottom: 1.5px solid var(--accent-opacity);
 			padding: 0.5rem 0;
 			margin-top: 0.5rem;
-			width: 34rem;
+			width: 50rem;
 			background-color: var(--elevation-five);
 			box-shadow: 0px 15px 8px -10px rgba(0, 0, 0, 0.4);
 		}
